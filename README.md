@@ -10,10 +10,12 @@ Pre Final-Year Engineering Student • Full-Stack Developer • AI-Oriented
 Building reliable systems · Learning with intent · Improving every iteration
 </p>
 
-<!-- LeetCode highlight -->
 <p>
 <a href="https://leetcode.com/u/yash-ladda/" target="_blank">
 <img src="https://img.shields.io/badge/LeetCode-Problem%20Solver-ffa116?style=for-the-badge&logo=leetcode&logoColor=black" />
+</a>
+<a href="https://www.codechef.com/users/yash_ladda" target="_blank">
+<img src="https://img.shields.io/badge/CodeChef-Competitive%20Programmer-5b4638?style=for-the-badge&logo=codechef&logoColor=white" />
 </a>
 </p>
 
@@ -29,7 +31,7 @@ Building reliable systems · Learning with intent · Improving every iteration
 <li>🎓 Pre Final-year engineering student preparing for <b>Software Engineering roles</b></li>
 <li>🧠 Focused on <b>full-stack development</b> with growing interest in <b>AI systems</b></li>
 <li>🧩 Comfortable with frontend structure & backend logic</li>
-<li>🚀 Strong fundamentals with active <b>DSA practice on LeetCode</b></li>
+<li>🚀 Strong fundamentals with consistent <b>DSA practice</b></li>
 </ul>
 
 </div>
@@ -41,16 +43,22 @@ Building reliable systems · Learning with intent · Improving every iteration
 ## 🧠 PROBLEM SOLVING (DSA)
 
 <p style="color:#e5e7eb">
-Actively solving algorithmic problems to strengthen core concepts like
-<b>arrays, strings, recursion, hashing, stacks, queues, trees, and graphs</b>.
+Actively strengthening core problem-solving skills using
+<b>C++</b> through regular practice.
+</p>
+
+<p style="color:#e5e7eb">
+<b>Covered Topics:</b> Arrays · Strings · Recursion · Hashing · Stacks · Queues · Linked List · Basic Sorting & Searching
 </p>
 
 <p>
 <a href="https://leetcode.com/u/yash-ladda/" target="_blank">
-<img src="https://img.shields.io/badge/LeetCode-Yash%20Ladda-ffa116?style=for-the-badge&logo=leetcode&logoColor=black" />
+<img src="https://img.shields.io/badge/LeetCode-Active-ffa116?style=for-the-badge&logo=leetcode&logoColor=black" />
 </a>
-<img src="https://img.shields.io/badge/DSA-C%2B%2B-blue?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Interview%20Prep-Active-success?style=for-the-badge" />
+<a href="https://www.codechef.com/users/yash_ladda" target="_blank">
+<img src="https://img.shields.io/badge/CodeChef-Active-5b4638?style=for-the-badge&logo=codechef&logoColor=white" />
+</a>
+<img src="https://img.shields.io/badge/Language-C%2B%2B-blue?style=for-the-badge" />
 </p>
 
 </div>
@@ -113,7 +121,7 @@ Actively solving algorithmic problems to strengthen core concepts like
 <li>⚙️ Building scalable applications using <b>React + Express</b></li>
 <li>🔌 Strengthening backend APIs & database design</li>
 <li>📊 Applying <b>AI / ML concepts</b> beyond coursework</li>
-<li>🧠 Daily <b>LeetCode practice</b> for DSA & interview readiness</li>
+<li>🧠 Regular <b>LeetCode & CodeChef</b> practice for DSA & interviews</li>
 </ul>
 
 </div>
@@ -125,6 +133,7 @@ Actively solving algorithmic problems to strengthen core concepts like
 ## 🔗 CONNECT
 
 - 💼 **LinkedIn:** https://linkedin.com/in/yash-ladda  
-- 🧠 **LeetCode:** https://leetcode.com/u/yash-ladda/
+- 🧠 **LeetCode:** https://leetcode.com/u/yash-ladda/  
+- 🧩 **CodeChef:** https://www.codechef.com/users/yash_ladda  
 
 </div>
