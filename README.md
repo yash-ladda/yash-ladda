@@ -1,77 +1,130 @@
-# Yash Ladda
+<div align="center" style="background:#0f172a;padding:30px;border-radius:16px">
 
-**Final-Year Engineering Student · Software Engineer in the Making · AI-Driven Web Developer**
+<h1 style="color:#38bdf8">YASH LADDA</h1>
 
-I build systems, not just screens.  
-Focused on writing clean, scalable code and gradually moving toward **AI-powered, production-ready applications**.
+<h3 style="color:#e5e7eb">
+Pre Final-Year Engineering Student • Full-Stack Developer • AI-Oriented
+</h3>
 
----
+<p style="color:#94a3b8">
+Building reliable systems · Learning with intent · Improving every iteration
+</p>
 
-## Profile Snapshot
+<!-- LeetCode highlight -->
+<p>
+<a href="https://leetcode.com/u/yash-ladda/" target="_blank">
+<img src="https://img.shields.io/badge/LeetCode-Problem%20Solver-ffa116?style=for-the-badge&logo=leetcode&logoColor=black" />
+</a>
+</p>
 
-- Final-year engineering student preparing for **software engineering placements**
-- Strong foundation in **frontend + backend fundamentals**
-- Actively exploring **AI, system design basics, and cloud-native development**
-- Believe in learning by **building, breaking, and rebuilding**
-
----
-
-## Current Focus
-
-- Designing full-stack applications with **React + Express**
-- Strengthening problem-solving using **C++ (DSA fundamentals)**
-- Applying **AI/ML concepts** to real-world use cases
-- Improving code quality, structure, and project architecture
+</div>
 
 ---
 
-## What I Work With
+<div style="background:#111827;padding:20px;border-radius:14px">
 
-**Languages**
-- C++, JavaScript, Python, SQL
+## 🧩 PROFILE
 
-**Frontend**
-- React, HTML5, CSS3, EJS, Remix
+<ul style="color:#e5e7eb">
+<li>🎓 Pre Final-year engineering student preparing for <b>Software Engineering roles</b></li>
+<li>🧠 Focused on <b>full-stack development</b> with growing interest in <b>AI systems</b></li>
+<li>🧩 Comfortable with frontend structure & backend logic</li>
+<li>🚀 Strong fundamentals with active <b>DSA practice on LeetCode</b></li>
+</ul>
 
-**Backend & APIs**
-- Node.js, Express.js, REST APIs
-
-**Databases**
-- MongoDB, MySQL
-
-**AI / Data**
-- NumPy, Pandas, scikit-learn, Matplotlib
-
-**Web3 & Cloud**
-- Solidity, Web3.js, Render
-
-**Tools**
-- Git, GitHub, Postman, Power BI, Notion, Canva
+</div>
 
 ---
 
-## How I Think as a Developer
+<div style="background:#020617;padding:20px;border-radius:14px">
 
-- Prefer **clarity over cleverness**
-- Write code that another developer can understand
-- Break problems down before touching the keyboard
-- Optimize only after correctness
+## 🧠 PROBLEM SOLVING (DSA)
 
----
+<p style="color:#e5e7eb">
+Actively solving algorithmic problems to strengthen core concepts like
+<b>arrays, strings, recursion, hashing, stacks, queues, trees, and graphs</b>.
+</p>
 
-## Connect
+<p>
+<a href="https://leetcode.com/u/yash-ladda/" target="_blank">
+<img src="https://img.shields.io/badge/LeetCode-Yash%20Ladda-ffa116?style=for-the-badge&logo=leetcode&logoColor=black" />
+</a>
+<img src="https://img.shields.io/badge/DSA-C%2B%2B-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Interview%20Prep-Active-success?style=for-the-badge" />
+</p>
 
-- **LinkedIn:** https://linkedin.com/in/yash-ladda  
-- Open to collaboration, internships, and meaningful discussions
-
----
-
-## GitHub Analytics
-
-![Stats](https://github-readme-stats.vercel.app/api?username=yash-ladda&theme=radical&hide_border=false)
-![Streak](https://nirzak-streak-stats.vercel.app/?user=yash-ladda&theme=radical&hide_border=false)
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yash-ladda&theme=radical&layout=compact)
+</div>
 
 ---
 
-![Profile Views](https://visitcount.itsvg.in/api?id=yash-ladda&icon=0&color=0)
+<div style="background:#0f172a;padding:20px;border-radius:14px">
+
+## 🧠 TECH STACK
+
+### 🟦 Languages
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776ab?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479a1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### 🟩 Frontend
+![React](https://img.shields.io/badge/React-61dafb?style=for-the-badge&logo=react&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-e34f26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572b6?style=for-the-badge&logo=css3&logoColor=white)
+![EJS](https://img.shields.io/badge/EJS-b4ca65?style=for-the-badge)
+
+### 🟨 Backend
+![Node.js](https://img.shields.io/badge/Node.js-3c873a?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-404d59?style=for-the-badge&logo=express&logoColor=white)
+![REST](https://img.shields.io/badge/REST%20APIs-ff6c37?style=for-the-badge)
+
+### 🟥 Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-47a248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479a1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### 🟪 AI / Data
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-f7931e?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=matplotlib&logoColor=black)
+
+### 🟧 Web3 / Cloud
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+![Web3.js](https://img.shields.io/badge/Web3.js-f16822?style=for-the-badge)
+![Render](https://img.shields.io/badge/Render-46e3b7?style=for-the-badge)
+
+### 🟫 Tools
+![Git](https://img.shields.io/badge/Git-f05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-ff6c37?style=for-the-badge&logo=postman&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-f2c811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00c4cc?style=for-the-badge&logo=canva&logoColor=white)
+
+</div>
+
+---
+
+<div style="background:#F5F5DC;padding:20px;border-radius:14px">
+
+## 🎯 CURRENT FOCUS
+
+<ul style="color:#111827">
+<li>⚙️ Building scalable applications using <b>React + Express</b></li>
+<li>🔌 Strengthening backend APIs & database design</li>
+<li>📊 Applying <b>AI / ML concepts</b> beyond coursework</li>
+<li>🧠 Daily <b>LeetCode practice</b> for DSA & interview readiness</li>
+</ul>
+
+</div>
+
+---
+
+<div style="background:#0f172a;padding:20px;border-radius:14px">
+
+## 🔗 CONNECT
+
+- 💼 **LinkedIn:** https://linkedin.com/in/yash-ladda  
+- 🧠 **LeetCode:** https://leetcode.com/u/yash-ladda/
+
+</div>
