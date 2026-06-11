@@ -1,139 +1,215 @@
-<div align="center" style="background:#0f172a;padding:30px;border-radius:16px">
+<div align="center">
 
-<h1 style="color:#38bdf8">YASH LADDA</h1>
+<!-- Animated banner with gradient wave effect -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Yash%20Ladda&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%80%A2%20AI%20Enthusiast%20%E2%80%A2%20Lifelong%20Learner&descAlignY=60&descAlign=50&descSize=18&descColor=a78bfa"/>
 
-<h3 style="color:#e5e7eb">
-Pre Final-Year Engineering Student • Full-Stack Developer • AI-Oriented
-</h3>
+<!-- Typing Animation -->
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=26&duration=2800&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=false&width=900&lines=Hey+there%2C+I%27m+Yash+%F0%9F%91%8B;Building+beautiful+%26+performant+web+experiences+%F0%9F%9A%80;Exploring+AI+%2B+Web+integration+%F0%9F%A7%A0;Open+to+collaboration+on+impactful+projects+%F0%9F%A4%9D;Turning+ideas+into+polished+interfaces+%E2%9C%A8" alt="Typing SVG" />
 
-<p style="color:#94a3b8">
-Building reliable systems · Learning with intent · Improving every iteration
-</p>
+<br/>
 
+</div>
+
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+---
+
+## 🌌 About Me
+
+```typescript
+const yash = {
+  name: "Yash Ladda",
+  role: "Full stack Developer",
+  location: "India 🇮🇳",
+  currentFocus: ["React", "Next.js", "AI-powered Web Apps"],
+  learning: ["System Design", "Backend Patterns", "LLM Integration"],
+  openTo: ["Full-Stack Roles", "Backend Development", "Open Source"],
+  funFact: "I turn caffeine into polished interfaces ☕→✨",
+  motto: "Destiny always demands patience 🌌"
+};
+```
+
+<br/>
+
+<table>
+  <tr>
+    <td>🔭</td><td>Currently crafting web experiences with <strong>React / Next.js</strong></td>
+  </tr>
+  <tr>
+    <td>🌱</td><td>Leveling up in <strong>AI-powered apps, backend patterns & system design</strong></td>
+  </tr>
+  <tr>
+    <td>👯</td><td>Open to collaborating on <strong>frontend, full-stack & community projects</strong></td>
+  </tr>
+  <tr>
+    <td>💬</td><td>Ask me about <strong>JavaScript, React, Next.js, Tailwind, UI performance</strong></td>
+  </tr>
+  <tr>
+    <td>⚡</td><td>Fun fact: I love turning wild ideas into buttery-smooth interfaces</td>
+  </tr>
+</table>
+
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+---
+
+## 🌐 Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yash-ladda/)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/me.y4sh/)
+[![Gmail](https://img.shields.io/badge/Gmail-Mail%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yashladda7777@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Solve-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/yash-ladda/)
+
+</div>
+
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+---
+
+## 🧰 Tech Arsenal
+
+<div align="center">
+
+### ⚡   Languages
 <p>
-<a href="https://leetcode.com/u/yash-ladda/" target="_blank">
-<img src="https://img.shields.io/badge/LeetCode-Problem%20Solver-ffa116?style=for-the-badge&logo=leetcode&logoColor=black" />
-</a>
-<a href="https://www.codechef.com/users/yash_ladda" target="_blank">
-<img src="https://img.shields.io/badge/CodeChef-Competitive%20Programmer-5b4638?style=for-the-badge&logo=codechef&logoColor=white" />
-</a>
+  <img src="https://skillicons.dev/icons?i=js,ts,python,cpp,html,css&theme=dark" />
 </p>
 
-</div>
-
----
-
-<div style="background:#111827;padding:20px;border-radius:14px">
-
-## 🧩 PROFILE
-
-<ul style="color:#e5e7eb">
-<li>🎓 Pre Final-year engineering student preparing for <b>Software Engineering roles</b></li>
-<li>🧠 Focused on <b>full-stack development</b> with growing interest in <b>AI systems</b></li>
-<li>🧩 Comfortable with frontend structure & backend logic</li>
-<li>🚀 Strong fundamentals with consistent <b>DSA practice</b></li>
-</ul>
-
-</div>
-
----
-
-<div style="background:#020617;padding:20px;border-radius:14px">
-
-## 🧠 PROBLEM SOLVING (DSA)
-
-<p style="color:#e5e7eb">
-Actively strengthening core problem-solving skills using
-<b>C++</b> through regular practice.
-</p>
-
-<p style="color:#e5e7eb">
-<b>Covered Topics:</b> Arrays · Strings · Recursion · Hashing · Stacks · Queues · Linked List · Basic Sorting & Searching
-</p>
-
+### 🧱 Frameworks & Libraries
 <p>
-<a href="https://leetcode.com/u/yash-ladda/" target="_blank">
-<img src="https://img.shields.io/badge/LeetCode-Active-ffa116?style=for-the-badge&logo=leetcode&logoColor=black" />
-</a>
-<a href="https://www.codechef.com/users/yash_ladda" target="_blank">
-<img src="https://img.shields.io/badge/CodeChef-Active-5b4638?style=for-the-badge&logo=codechef&logoColor=white" />
-</a>
-<img src="https://img.shields.io/badge/Language-C%2B%2B-blue?style=for-the-badge" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,bootstrap,sklearn&theme=dark" />
+</p>
+
+### 🗄️ Databases & Cloud
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,supabase,vercel&theme=dark" />
+</p>
+
+### 🛠️ Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,notion&theme=dark" />
 </p>
 
 </div>
 
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
 ---
 
-<div style="background:#0f172a;padding:20px;border-radius:14px">
+## 📊 GitHub Intelligence
 
-## 🧠 TECH STACK
+<div align="center">
 
-### 🟦 Languages
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776ab?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479a1?style=for-the-badge&logo=mysql&logoColor=white)
+### 🔢 Stats Overview
 
-### 🟩 Frontend
-![React](https://img.shields.io/badge/React-61dafb?style=for-the-badge&logo=react&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-e34f26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572b6?style=for-the-badge&logo=css3&logoColor=white)
-![EJS](https://img.shields.io/badge/EJS-b4ca65?style=for-the-badge)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yash-ladda&theme=2077" width="100%" alt="Profile Details"/>
 
-### 🟨 Backend
-![Node.js](https://img.shields.io/badge/Node.js-3c873a?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-404d59?style=for-the-badge&logo=express&logoColor=white)
-![REST](https://img.shields.io/badge/REST%20APIs-ff6c37?style=for-the-badge)
+<br/>
 
-### 🟥 Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-47a248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479a1?style=for-the-badge&logo=mysql&logoColor=white)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yash-ladda&theme=2077" height="180" alt="Repos per Language" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yash-ladda&theme=2077" height="180" alt="Most Commit Language" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yash-ladda&theme=2077" height="180" alt="Stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yash-ladda&theme=2077&utcOffset=5.5" height="180" alt="Productive Time" />
 
-### 🟪 AI / Data
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-f7931e?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=matplotlib&logoColor=black)
+<br/><br/>
 
-### 🟧 Web3 / Cloud
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
-![Web3.js](https://img.shields.io/badge/Web3.js-f16822?style=for-the-badge)
-![Render](https://img.shields.io/badge/Render-46e3b7?style=for-the-badge)
+### 🔥 Streak & Activity
 
-### 🟫 Tools
-![Git](https://img.shields.io/badge/Git-f05033?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-ff6c37?style=for-the-badge&logo=postman&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-f2c811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00c4cc?style=for-the-badge&logo=canva&logoColor=white)
+<img src="https://streak-stats.demolab.com?user=yash-ladda&theme=tokyonight-duo&hide_border=true&border_radius=12&ring=A78BFA&fire=FF6B6B&currStreakLabel=A78BFA" alt="GitHub Streak" width="60%" />
+
+<br/><br/>
+
+<img height="180em" src="https://github-readmeapp.vercel.app/api?username=yash-ladda&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&bg_color=0d0d2b&title_color=A78BFA&icon_color=A78BFA" alt="GitHub stats" />
+
+<br/><br/>
+
+### 🌊 Contribution Activity
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yash-ladda&theme=tokyo-night&bg_color=0d0d2b&color=A78BFA&line=7C3AED&point=FF6B6B&hide_border=true&area=true&area_color=3D1F8C)](https://github.com/yash-ladda)
 
 </div>
 
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
 ---
 
-<div style="background:#F5F5DC;padding:20px;border-radius:14px">
+## 🧠 Competitive Programming
 
-## 🎯 CURRENT FOCUS
+<div align="center">
 
-<ul style="color:#111827">
-<li>⚙️ Building scalable applications using <b>React + Express</b></li>
-<li>🔌 Strengthening backend APIs & database design</li>
-<li>📊 Applying <b>AI / ML concepts</b> beyond coursework</li>
-<li>🧠 Regular <b>LeetCode & CodeChef</b> practice for DSA & interviews</li>
-</ul>
+<a href="https://leetcode.com/u/yash-ladda/">
+  <img src="https://leetcard.jacoblin.cool/yash-ladda?theme=nord&font=JetBrains%20Mono&ext=contest&border=0&radius=16" alt="LeetCode Stats" />
+</a>
 
 </div>
 
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+
+
 ---
 
-<div style="background:#0f172a;padding:20px;border-radius:14px">
+## 🕹️ Contribution Art
 
-## 🔗 CONNECT
+<div align="center">
 
-- 💼 **LinkedIn:** https://linkedin.com/in/yash-ladda  
-- 🧠 **LeetCode:** https://leetcode.com/u/yash-ladda/  
-- 🧩 **CodeChef:** https://www.codechef.com/users/yash_ladda  
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yash-ladda/yash-ladda/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yash-ladda/yash-ladda/output/pacman-contribution-graph.svg">
+  <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/yash-ladda/yash-ladda/output/pacman-contribution-graph.svg" width="100%"/>
+</picture>
+
+</div>
+
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+---
+
+## 💡 A Random Dev Thought
+
+<div align="center">
+
+
+<a href="https://github.com/yash-ladda">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cache_seconds=1" />
+</a>
+
+
+</div>
+
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+---
+
+<div align="center">
+
+<!-- Visitor counter with flair -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yash-ladda&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+</p>
+<!-- Animated footer wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn"/>
+
+<br/>
+
+
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=16&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=%F0%9F%8C%8C+Destiny+always+demands+patience+%F0%9F%8C%8C;Thanks+for+visiting+%E2%80%94+let%27s+build+something+great!+%F0%9F%9A%80" alt="Footer typing" />
+
+<br/>
+
+⭐ **If you like my work, consider giving my repos a star — it means the world!** ⭐
 
 </div>
