@@ -1,9 +1,8 @@
-```yml id="u9v2ak"
 name: Generate Pacman Contribution Graph
 
 on:
   schedule:
-    - cron: "0 */12 * * *" # every 12 hrs
+    - cron: "0 */12 * * *"
   workflow_dispatch:
 
 permissions:
@@ -29,4 +28,3 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
